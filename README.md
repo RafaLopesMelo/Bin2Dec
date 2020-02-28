@@ -1,6 +1,6 @@
 # Bin2Dec
 
-Projeto Front-end que recebe um número binário de até 8 dígitos e retorna um valor inteiro no sistema numérico mais comum.
+Projeto Front-end que recebe um número binário de até 8 dígitos e retorna um valor inteiro no sistema numérico mais comum. Este projeto foi retirado do repositório https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md e segue algumas orientações e desafios pré-estabelecidos.
 
 Tecnologias utilizadas: 
 
